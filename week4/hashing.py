@@ -57,9 +57,6 @@ H[52] = 'F' # 2
 H[89] = 'G' # 9  REHASH 8
 H[70] = 'H' # 0  REHASH 7 
 H[12] = 'I' # 2  REHASH 1
-
-# print the slot values
-print(H.slots)
 # print the data values
 print(H.data)
 # print the value for key 52
